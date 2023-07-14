@@ -1,0 +1,14 @@
+.card {
+    border-radius: 15px;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    width: 200px;
+    margin: 10px;
+    transition: 0.3s ease-in-out;
+}
+
+.card:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+}
